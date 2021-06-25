@@ -3,7 +3,7 @@ This is the backend for the "Jobly" project. Jobly is an app that allows users
 to search for and apply to different companies. The backend is built with Node, 
 Express, and Postgresql. 
 
-You can find the frontend here. 
+[You can find the frontend here](https://github.com/Eyad-A/jobly-frontend) 
 
 ## Features 
 - This is a pure API app, taking values from the query string (GET requests) or 
