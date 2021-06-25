@@ -9,7 +9,7 @@ You can find the frontend here.
 - This is a pure API app, taking values from the query string (GET requests) or 
 from a JSON body, and returns JSON
 - Uses JWT tokens for authentication/authorization 
-- Ability to GET companies and filter by name, minimum/maximum number of employees
+- Ability to GET companies and filter by name, and minimum/maximum number of employees
 - Ability to GET jobs and filter by title, salary, and equity (boolean)
 - Authorization: only users with isAdmin flag are able to create, update, or delete companies
 - Getting information on a user, updating, or deleting a user should only be permitted either by an admin, or by that user.
